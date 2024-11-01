@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "OWOX BI GA4 Web Streaming To Google BigQuery",
+  "categories": ["ANALYTICS"],
   "brand": {
     "id": "owox",
     "displayName": "OWOX",
