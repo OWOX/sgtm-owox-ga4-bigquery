@@ -1,10 +1,5 @@
-name: "OWOX BI GA4 Web Streaming To Google BigQuery"
-description: "Send GA4-like events to OWOX BI endpoint to be delivered to Google BigQuery"
 homepage: "https://www.owox.com/c/5pv"
 documentation: "https://www.owox.com/c/5q0"
-categories:
-  - "Analytics"
-icon: "analytics"
-keywords:
-  - "marketing"
-  - "tracking"
+versions:
+  - sha: 2456bc436f8b2ee2aef476a6349180ca39a00c9a
+    changeNotes: Initial Version
